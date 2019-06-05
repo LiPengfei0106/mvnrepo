@@ -8,12 +8,12 @@ allprojects {
         google()
         jcenter()
         maven{
-            url "https://gitee.com/lipengfei94/mvnrepo/raw/master"
+            url "https://github.com/LiPengfei0106/mvnrepo/raw/master"
         }
     }
 }
 ```
-然后再module中implementation需要的包即可
+然后在module中implementation需要的包即可
 ```
 dependencies {
     # 人脸识别库
