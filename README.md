@@ -18,6 +18,8 @@ allprojects {
 dependencies {
     # 人脸识别库
     implementation 'cn.cleartv.lee:facesdk:0.0.1'
+	# 人脸识别库2，和1使用方法基本一样，添加了活体检测等功能
+    implementation 'cn.cleartv.lee:facesdk2:0.0.1'
     # Android开发工具库
     implementation 'cn.cleartv.lee:library:0.0.1'
     # Glide support WebP 和 SVG库
