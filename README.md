@@ -25,6 +25,6 @@ dependencies {
     # Glide support WebP 和 SVG库
     implementation 'cn.cleartv.lee:glide-support:0.0.1'
     # 下载库，通过广播监听下载过程
-    implementation 'cn.cleartv.lee:downloader-support:0.0.1'
+    implementation 'cn.cleartv.lee:downloader:0.0.1'
 }
 ```
