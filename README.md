@@ -26,5 +26,7 @@ dependencies {
     implementation 'cn.cleartv.lee:glide-support:0.0.1'
     # 下载库，通过广播监听下载过程
     implementation 'cn.cleartv.lee:downloader:0.0.1'
+    # TV用的部件，包括TvRecyclerView等
+    implementation 'cn.cleartv.lee:tvwidget:0.0.1'
 }
 ```
