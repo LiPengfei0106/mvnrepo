@@ -32,5 +32,7 @@ dependencies {
     implementation 'cn.cleartv.lee:cardreader:0.0.2'
     # 指纹采集
     implementation 'cn.cleartv.lee:fpreader:0.0.1'
+    # 中控读取设备，包括读卡器和指纹采集仪
+    implementation 'cn.cleartv.lee:zkreader:0.0.1'
 }
 ```
