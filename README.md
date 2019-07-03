@@ -29,6 +29,6 @@ dependencies {
     # TV用的部件，包括TvRecyclerView等
     implementation 'cn.cleartv.lee:tvwidget:0.0.1'
     # 身份证读卡器
-    implementation 'cn.cleartv.lee:cardreader:0.0.1'
+    implementation 'cn.cleartv.lee:cardreader:0.0.2'
 }
 ```
