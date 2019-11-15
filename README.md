@@ -21,7 +21,7 @@ dependencies {
 	# 人脸识别库2，和1使用方法基本一样，添加了活体检测等功能
     implementation 'cn.cleartv.lee:facesdk2:0.0.1'
     # Android开发工具库
-    implementation 'cn.cleartv.lee:library:0.0.1'
+    implementation 'cn.cleartv.lee:library:0.0.2'
     # Glide support WebP 和 SVG库
     implementation 'cn.cleartv.lee:glide-support:0.0.1'
     # 下载库，通过广播监听下载过程
@@ -34,5 +34,7 @@ dependencies {
     implementation 'cn.cleartv.lee:fpreader:0.0.1'
     # 中控读取设备，包括读卡器和指纹采集仪
     implementation 'cn.cleartv.lee:zkreader:0.0.8'
+    # Rxbus库
+    implementation 'cn.cleartv.lee:rxbus:0.0.3'
 }
 ```
